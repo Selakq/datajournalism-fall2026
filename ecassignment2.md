@@ -1,0 +1,3 @@
+After realizing DC open data does not actual track e-bike crashes, Hannah and I shifted out idea. We found data about led levels in D.C. drinking water based in different property types. We filtered the data on DC open data to be form 2020-2025 on open data in order to download the CSV.
+Below I made a pie chart showing the number of cases in residential v non-residential properties. Originally I made a line chart which organized cases by ward, but it ended up being too messy.
+Github would not let me upload a file so here is a link to a google sheet with a chart https://docs.google.com/spreadsheets/d/103Lwmiojx0jnwsL0d75FolxGtSiNrKBf-iV2Lzp2S9s/edit?usp=sharing
